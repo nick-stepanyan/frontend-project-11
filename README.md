@@ -23,4 +23,4 @@ RSS is a specialized format designed to describe news feeds, article announcemen
 RSS-aggregator knows how to poll sites' RSS feeds for new posts and display them in a convenient way, noting what has been read.
 This is a service for aggregating RSS feeds, with which it is convenient to read a variety of sources, such as blogs. It allows you to add an unlimited number of RSS feeds, updates them and adds new entries to the total stream.
 
-[RSS-aggregator](frontend-project-11-11r04v0e8-nick-stepanyan.vercel.app)
+[RSS-aggregator](frontend-project-11-eight-zeta.vercel.app)
