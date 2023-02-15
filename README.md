@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/nick-stepanyan/frontend-project-11/workflows/hexlet-check/badge.svg)](https://github.com/github/nick-stepanyan/frontend-project-11/actions)
+[![Actions Status](https://github.com/nick-stepanyan/frontend-project-11/workflows/hexlet-check/badge.svg)]
 [![Maintainability](https://api.codeclimate.com/v1/badges/2e7cb94c9f17bf250105/maintainability)](https://codeclimate.com/github/nick-stepanyan/frontend-project-11/maintainability)
 [![Node CI](https://github.com/nick-stepanyan/frontend-project-11/actions/workflows/nodejs.yml/badge.svg)](https://github.com/nick-stepanyan/frontend-project-11/actions/workflows/nodejs.yml)
 # 🚀 Welcome! This is a little awesome project!
